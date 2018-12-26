@@ -1,5 +1,5 @@
 # EpicWOW.ir
-سرور بازی ورد آف وارکرافت اپیک - Epicwow World of Warcraft Private Server (https://EpicWOW.ir)
+سرور بازی ورلد آف وارکرافت اپیک - EpicWOW, World of Warcraft Private Server (https://EpicWOW.ir)
 
 
 با سلام و احترام خدمت بازدیدکننده محترم؛
